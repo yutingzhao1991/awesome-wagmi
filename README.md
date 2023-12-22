@@ -26,6 +26,7 @@ Collection of awesome [wagmi](https://github.com/wagmi-dev/wagmi)-related projec
 - [vagmi](https://vagmi.vercel.app) — A WIP Vue port of wagmi
 - [Web3Modal](https://web3modal.com) — Your on-ramp to web3 multichain wallets.
 - [use-wagmi](https://github.com/unicape/use-wagmi) — Vue Composition for Ethereum port of wagmi
+- [@ant-design/web3-wagmi](https://web3.ant.design/components/wagmi) - Use wagmi with Ant Design Web3 React components
 
 ### Connectors
 
